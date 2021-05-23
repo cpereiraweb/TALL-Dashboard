@@ -59,11 +59,11 @@
 
 <!-- Scripts -->
 <script src="{{ mix('js/app.js') }}"></script>
-<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+{{-- <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script> --}}
 <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
-<script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js" defer></script>
-<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+{{-- <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js" defer></script> --}}
+{{-- <script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script> --}}
 <script src="https://vjs.zencdn.net/7.8.4/video.js"></script>
 <script>
     $(document).ready(function() {
